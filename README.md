@@ -1,5 +1,7 @@
 # AI Data Analyst — 25 Subagents / 45 Skills
 
+Repo: https://github.com/polavaramlakshmi67-web/ai-data-analyst
+
 A Claude Code project scaffold implementing a multi-agent data analysis system.
 
 ## Structure
